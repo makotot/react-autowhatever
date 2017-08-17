@@ -25,6 +25,7 @@
     "prepublish": "npm run dist && npm run standalone"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react-themeable": "^1.1.0",
     "section-iterator": "^2.0.0"
   },
